@@ -1,0 +1,7 @@
+ a {
+     text-decoration: none;
+     color: #777
+ }
+ a :hover {
+     font-weight: bold;
+ }
